@@ -1,4 +1,4 @@
 opencv-python-headless==5.0.0.93
-streamlit
-numpy
-pandas
+streamlit==1.66.1
+numpy==2.5.4
+pandas==3.1.0
